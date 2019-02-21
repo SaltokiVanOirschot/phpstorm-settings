@@ -4,6 +4,7 @@
       <mapping ext="info" type="Ini" />
       <mapping pattern="Elastic-indexFile" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
+      <mapping ext="mustache" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
