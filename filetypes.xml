@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="info" type="Ini" />
       <mapping pattern="Elastic-indexFile" type="PLAIN_TEXT" />
+      <mapping pattern="19-037444.json" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit-windows" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
