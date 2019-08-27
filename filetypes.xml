@@ -7,6 +7,7 @@
       <mapping pattern="pre-commit-windows" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
+      <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="blog" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
