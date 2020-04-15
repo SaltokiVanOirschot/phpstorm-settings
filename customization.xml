@@ -18,6 +18,14 @@
     </group>
     <group value="Tool_External Tools_phpcbf-single file" is_action="true" action_type="1" position="0">
       <path value="root" />
+      <path value="Editor Tab Popup Menu" />
+      <path value="Editor Tab Popup Menu Actions (1)" />
+      <path value="External Tools" />
+      <path value="External Tools" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_phpcbf-single file" is_action="true" action_type="1" position="0">
+      <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="External Tools" />
       <path value="External Tools" />
@@ -39,6 +47,16 @@
     <group value="Back" is_action="true" action_type="1" position="9">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="JumpToLastChange" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
