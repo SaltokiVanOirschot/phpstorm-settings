@@ -5,12 +5,12 @@
       <mapping pattern="RemittanceDetail" type="PHP" />
       <mapping pattern="Elastic-indexFile" type="PLAIN_TEXT" />
       <mapping pattern="hosts_dev" type="PLAIN_TEXT" />
-      <mapping pattern="error" type="PLAIN_TEXT" />
       <mapping pattern="19-037444.json" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit-windows" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".git_include" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
+      <mapping pattern="error" type="PLAIN_TEXT" />
       <mapping pattern="hosts_test" type="PLAIN_TEXT" />
       <mapping ext="php_cs" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
