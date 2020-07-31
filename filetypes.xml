@@ -10,6 +10,7 @@
       <mapping pattern="pre-commit-windows" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".git_include" type="PLAIN_TEXT" />
+      <mapping pattern="host_saltoki_demo" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern="hosts_test" type="PLAIN_TEXT" />
       <mapping ext="php_cs" type="PLAIN_TEXT" />
