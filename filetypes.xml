@@ -4,6 +4,7 @@
       <mapping ext="info" type="Ini" />
       <mapping pattern="RemittanceDetail" type="PHP" />
       <mapping pattern="Elastic-indexFile" type="PLAIN_TEXT" />
+      <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping pattern="hosts_dev" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="error" type="PLAIN_TEXT" />
