@@ -19,6 +19,7 @@
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="blog" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="usd" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="php_cs" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
