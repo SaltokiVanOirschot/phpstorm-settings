@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://xml.cxml.org/schemas/cXML/1.2.014/cXML.dtd" location="$USER_HOME$/Library/Caches/PhpStorm2019.3/extResources/f14c1ed1_cXML.dtd" />
+    <resource url="http://xml.cxml.org/schemas/cXML/1.2.044/cXML.dtd" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2020.3/extResources/affa3714_cXML.dtd" />
   </component>
 </application>
