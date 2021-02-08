@@ -23,6 +23,7 @@
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="php_cs" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
     </extensionMap>
   </component>
