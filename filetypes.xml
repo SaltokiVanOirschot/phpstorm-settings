@@ -19,6 +19,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="blog" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="conf " type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
