@@ -26,6 +26,7 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="usd" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="php_cs" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
