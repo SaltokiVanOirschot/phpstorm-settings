@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="csv" type="CSV" />
       <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping ext="info" type="Ini" />
       <mapping pattern="RemittanceDetail" type="PHP" />
