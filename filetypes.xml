@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping ext="info" type="Ini" />
       <mapping pattern="RemittanceDetail" type="PHP" />
       <mapping pattern=".git_include" type="PLAIN_TEXT" />
@@ -30,6 +28,7 @@
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="php_cs" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
     </extensionMap>
