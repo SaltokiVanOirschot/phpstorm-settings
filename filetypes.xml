@@ -27,6 +27,7 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="conf " type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="usd" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
