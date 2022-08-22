@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV" />
+      <mapping ext="csv" type="CSV/TSV" />
       <mapping ext="info" type="Ini" />
       <mapping ext="tmpl" type="JSON" />
       <mapping pattern="RemittanceDetail" type="PHP" />
