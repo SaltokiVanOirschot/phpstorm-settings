@@ -4,8 +4,8 @@
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <removed_mapping ext="csv" type="CSV" />
       <mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="tmpl" type="Go Template" />
       <mapping ext="info" type="Ini" />
-      <mapping ext="tmpl" type="JSON" />
       <mapping pattern="RemittanceDetail" type="PHP" />
       <mapping pattern=".git_include" type="PLAIN_TEXT" />
       <mapping pattern="error" type="PLAIN_TEXT" />
@@ -34,6 +34,7 @@
       <mapping ext="php_cs" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping ext="tmpl" approved="true" type="JSON" />
       <removed_mapping ext="tmpl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping pattern="tmpl" approved="true" type="JSON" />
