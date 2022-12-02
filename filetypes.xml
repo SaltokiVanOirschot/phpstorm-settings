@@ -2,9 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
-      <mapping ext="tmpl" type="Go Template" />
+      <mapping ext="csv" type="CSV/TSV" />
       <mapping ext="info" type="Ini" />
       <mapping pattern="RemittanceDetail" type="PHP" />
       <mapping pattern=".git_include" type="PLAIN_TEXT" />
@@ -38,6 +36,7 @@
       <removed_mapping ext="tmpl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping pattern="tmpl" approved="true" type="JSON" />
+      <mapping ext="tmpl" type="Go Template" />
     </extensionMap>
   </component>
 </application>
