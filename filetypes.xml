@@ -4,12 +4,14 @@
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping ext="info" type="Ini" />
       <mapping pattern="RemittanceDetail" type="PHP" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".git_include" type="PLAIN_TEXT" />
       <mapping pattern="error" type="PLAIN_TEXT" />
       <mapping pattern="Elastic-indexFile" type="PLAIN_TEXT" />
       <mapping pattern="19-037444.json" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit-windows" type="PLAIN_TEXT" />
       <mapping pattern="host_saltoki_demo" type="PLAIN_TEXT" />
+      <mapping pattern=".env.oihana" type="PLAIN_TEXT" />
       <mapping pattern="hosts_test" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
