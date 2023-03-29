@@ -13,6 +13,7 @@
       <mapping pattern="host_saltoki_demo" type="PLAIN_TEXT" />
       <mapping pattern=".env.oihana" type="PLAIN_TEXT" />
       <mapping pattern="hosts_test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
