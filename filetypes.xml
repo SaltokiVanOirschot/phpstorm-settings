@@ -2,43 +2,45 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="tmpl" type="Go Template" />
       <mapping ext="info" type="Ini" />
       <mapping pattern="RemittanceDetail" type="PHP" />
+      <mapping pattern="pre-commit-windows" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
-      <mapping pattern=".git_include" type="PLAIN_TEXT" />
       <mapping pattern="error" type="PLAIN_TEXT" />
+      <mapping pattern=".env.oihana" type="PLAIN_TEXT" />
       <mapping pattern="Elastic-indexFile" type="PLAIN_TEXT" />
       <mapping pattern="19-037444.json" type="PLAIN_TEXT" />
-      <mapping pattern="pre-commit-windows" type="PLAIN_TEXT" />
-      <mapping pattern="host_saltoki_demo" type="PLAIN_TEXT" />
-      <mapping pattern=".env.oihana" type="PLAIN_TEXT" />
-      <mapping pattern="hosts_test" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping pattern="api" type="PLAIN_TEXT" />
+      <mapping pattern=".git_include" type="PLAIN_TEXT" />
+      <mapping pattern="hosts_test" type="PLAIN_TEXT" />
       <mapping pattern="hosts_dev" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern="host_saltoki_demo" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="mustache" type="PLAIN_TEXT" />
-      <mapping ext="blog" type="PLAIN_TEXT" />
+      <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="bc3" type="PLAIN_TEXT" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="conf " type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="usd" type="PLAIN_TEXT" />
-      <mapping ext="ovpn" type="PLAIN_TEXT" />
-      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="blog" type="PLAIN_TEXT" />
       <mapping ext="php_cs" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="tmpl" approved="true" type="JSON" />
       <removed_mapping ext="tmpl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping pattern="tmpl" approved="true" type="JSON" />
-      <mapping ext="tmpl" type="Go Template" />
     </extensionMap>
   </component>
 </application>
