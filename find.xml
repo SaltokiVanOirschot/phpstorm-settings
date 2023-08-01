@@ -8,5 +8,6 @@
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*Mi*</mask>
   </component>
 </application>
