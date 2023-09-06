@@ -6,8 +6,8 @@
     <mask>*.blade.php</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*Mi*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
