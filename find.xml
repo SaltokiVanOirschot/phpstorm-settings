@@ -5,8 +5,7 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.*" />
-    <mask>*.blade.php</mask>
+    <option name="FILE_MASK" value="*.blade.php" />
     <mask>*.json</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
@@ -14,5 +13,6 @@
     <mask>*.xml</mask>
     <mask>*Routes.php</mask>
     <mask>*.*</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
