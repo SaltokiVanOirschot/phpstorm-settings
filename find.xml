@@ -1,16 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*Mi*</mask>
     <mask>*Routes.php</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
-    <mask>*.blade.php</mask>
     <mask>*.*</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
