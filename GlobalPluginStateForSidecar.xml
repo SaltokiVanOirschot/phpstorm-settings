@@ -2,8 +2,9 @@
   <component name="GlobalPluginStateForSidecar">
     <option name="values">
       <map>
-        <entry key="sidecar.agent.augment/clients/sidecar/chat-mode" value="&quot;CHAT&quot;" />
+        <entry key="sidecar.agent.augment/clients/sidecar/chat-mode" value="&quot;AGENT&quot;" />
         <entry key="sidecar.agent.hasEverUsedAgent" value="true" />
+        <entry key="sidecar.agent.soundSettings" value="{&quot;enabled&quot;:true,&quot;volume&quot;:0.5}" />
       </map>
     </option>
   </component>
