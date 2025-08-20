@@ -1,5 +1,5 @@
 <application>
   <component name="AugmentIntegrations">
-    <option name="mcpServersJson" value="{&quot;data&quot;:[{&quot;id&quot;:&quot;e21e271d-cac7-4d85-9393-55a977ee47da&quot;,&quot;name&quot;:&quot;Sequential thinking&quot;,&quot;command&quot;:&quot;npx -y @modelcontextprotocol/server-sequential-thinking&quot;,&quot;arguments&quot;:&quot;&quot;,&quot;useShellInterpolation&quot;:true,&quot;env&quot;:{},&quot;disabled&quot;:false,&quot;type&quot;:&quot;stdio&quot;,&quot;url&quot;:&quot;&quot;,&quot;tools&quot;:[]}],&quot;type&quot;:&quot;get-stored-mcp-servers-response&quot;}" />
+    <option name="mcpServersJson" value="{&quot;data&quot;:[],&quot;type&quot;:&quot;get-stored-mcp-servers-response&quot;}" />
   </component>
 </application>
