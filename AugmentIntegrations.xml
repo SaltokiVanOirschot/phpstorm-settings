@@ -1,5 +1,5 @@
 <application>
   <component name="AugmentIntegrations">
-    <option name="mcpServersJson" value="{&quot;data&quot;:[],&quot;type&quot;:&quot;get-stored-mcp-servers-response&quot;}" />
+    <option name="mcpServersJson" value="{&quot;data&quot;:[{&quot;id&quot;:&quot;ebc06283-71b3-49a7-b6ce-64a082d0719d&quot;,&quot;name&quot;:&quot;MySQL&quot;,&quot;command&quot;:&quot;npx -y @benborla29/mcp-server-mysql&quot;,&quot;arguments&quot;:&quot;&quot;,&quot;useShellInterpolation&quot;:true,&quot;env&quot;:{&quot;MYSQL_DB&quot;:&quot;saltoki&quot;,&quot;MYSQL_HOST&quot;:&quot;127.0.0.1&quot;,&quot;MYSQL_PASS&quot;:&quot;password&quot;,&quot;MYSQL_PORT&quot;:&quot;3306&quot;,&quot;MYSQL_USER&quot;:&quot;sail&quot;},&quot;disabled&quot;:false,&quot;type&quot;:&quot;stdio&quot;,&quot;url&quot;:&quot;&quot;,&quot;tools&quot;:[]}],&quot;type&quot;:&quot;get-stored-mcp-servers-response&quot;}" />
   </component>
 </application>
