@@ -7,12 +7,12 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.*" />
     <mask>*.json</mask>
-    <mask>*.js</mask>
     <mask>*Mi*</mask>
     <mask>*Routes.php</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.blade.php</mask>
+    <mask>*.js</mask>
     <mask>*.*</mask>
   </component>
 </application>
