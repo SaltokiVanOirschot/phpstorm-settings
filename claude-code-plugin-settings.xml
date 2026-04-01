@@ -1,5 +1,6 @@
 <application>
   <component name="ClaudeCodePluginSettings">
+    <option name="claudeCommand" value="claude --enable-auto-mode" />
     <option name="enableOptEnterNewLine" value="false" />
   </component>
 </application>
