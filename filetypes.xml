@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="hosts_test_new" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping pattern="hosts_prod_new" type="AUTO_DETECTED" />
       <mapping pattern="hosts_coral_prod" type="AUTO_DETECTED" />
       <mapping pattern="hosts_coral_dev" type="AUTO_DETECTED" />
       <mapping ext="sqlrpgle" type="AUTO_DETECTED" />
